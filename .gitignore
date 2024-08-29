@@ -1,0 +1,44 @@
+ # Fișiere și directoare generate de compilator
+*.exe
+*.obj
+*.o
+*.out
+*.a
+*.lib
+*.dll
+*.so
+*.dylib
+
+# Fișierele de configurare ale editorului/IDE-ului
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.user
+*.ncb
+*.sdf
+*.opensdf
+*.vcproj
+*.log
+*.idb
+*.pdb
+*.ipch
+*.aps
+*.opendb
+*.tlog
+*.lastbuildstate
+*.vs/
+
+# Fișiere temporare și de backup
+*.tmp
+*.bak
+*.swp
+*.swo
+*~ 
+
+# Fișierele de build generate de make/cmake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+build/
